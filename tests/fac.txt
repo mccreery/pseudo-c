@@ -1,0 +1,7 @@
+int32 BASE = 4;
+int32 result = 1;
+
+for(int32 i = 2; i <= BASE; i = i+1;) {
+	result = result * i;
+}
+print(result);

@@ -1,0 +1,8 @@
+int32 BASE =  7;
+int32 POWER = 2;
+
+int32 out = 1;
+for(int32 i = 0; i < POWER; i = i+1;) {
+	out = out * BASE;
+}
+print(out);
