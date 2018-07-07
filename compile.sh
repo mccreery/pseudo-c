@@ -1,1 +1,0 @@
-gcc -std=c99 -lm -Iinclude src/expression.c src/funcs.c src/list.c src/parser.c src/statement.c src/util.c src/value.c src/run/environment.c src/builtins/io.c src/builtins/math.c src/gpio.c -o bin/run
