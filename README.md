@@ -60,7 +60,7 @@ Operator | Purpose
 `<`      | Less than
 `!=`     | Not equal to
 `|`      | Logical OR
-`&amp;`      | Logical AND
+`&`      | Logical AND
 `<<`     | Bit shift left
 `>>`     | Bit shift right
 `+`      | Add
