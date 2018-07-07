@@ -59,7 +59,7 @@ Operator | Purpose
 `>`      | Greater than
 `<`      | Less than
 `!=`     | Not equal to
-`|`      | Logical OR
+`\|`      | Logical OR
 `&`      | Logical AND
 `<<`     | Bit shift left
 `>>`     | Bit shift right
